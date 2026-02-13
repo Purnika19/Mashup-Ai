@@ -237,3 +237,5 @@ wrapt==1.17.3
 xyzservices==2025.4.0
 yarl==1.22.0
 yt-dlp==2026.2.4
+gunicorn==21.2.0
+
