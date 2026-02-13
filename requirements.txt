@@ -167,9 +167,7 @@ python-dateutil==2.9.0.post0
 python-json-logger==3.3.0
 python-Levenshtein==0.27.1
 pytz==2025.2
-pywin32==310
-pywin32-ctypes==0.2.3
-pywinpty==2.0.15
+
 PyYAML==6.0.2
 pyzmq==26.4.0
 RapidFuzz==3.13.0
@@ -210,7 +208,7 @@ threadpoolctl==3.6.0
 tifffile==2025.6.11
 tinycss2==1.4.0
 toml==0.10.2
-Topsis-Purnika-102303412 @ file:///C:/Users/purni/OneDrive/Desktop/TOPSIS_PURNIKA_102303412
+
 torch==2.7.1+cpu
 torchaudio==2.7.1+cpu
 torchvision==0.22.1+cpu
